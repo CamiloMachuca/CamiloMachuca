@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Camilo Machuca Vega</h1>
-<h3 align="center">Desarrollador Full Stack Junior Apasionado por el desarrollo web y la creación de soluciones tecnológicas innovadoras.</h3>
+<h1 align="center">Hola 👋, soy Camilo Machuca Vega</h1>
+<h3 align="center">Desarrollador Full Stack Junior Apasionado por el desarrollo web y la creación de soluciones tecnológicas innovadoras actualmente tengo 18 años vivo en Tibú norte de Santander..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilomachuca&label=Profile%20views&color=0e75b6&style=flat" alt="camilomachuca" /> </p>
 
